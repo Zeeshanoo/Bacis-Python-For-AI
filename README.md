@@ -12,8 +12,6 @@ This repository contains a collection of Python code snippets covering various t
    - [Class and Object (OOP)]
    - [Data Structures]
 3. [How to Use]
-4. [Contributing]
-5. [License]
 
 ## Introduction
 
