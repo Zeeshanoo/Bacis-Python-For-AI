@@ -42,4 +42,4 @@ The code includes examples of working with different data structures like dictio
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/python-ai-code.git
+git clone https://github.com/Zeeshanoo/Bacis-Python-For-AI
